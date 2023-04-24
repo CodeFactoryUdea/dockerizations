@@ -1,5 +1,7 @@
 # Dockerizations
 
+El Dockerfile define como crear la imagen de una aplicación, en cambio el docker-compose nos permite vincular y configurar estos contenedores en conjunto para construir varios servicios. 
+
 
 ## Docker compose
 
